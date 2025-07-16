@@ -73,6 +73,7 @@ ruleTester.run("public-api-imports", rule, {
       options: options,
     },
     {
+      //
       filename:
         "C:\\Users\\tim\\Desktop\\javascript\\production_project\\src\\entities\\StoreDecorator.tsx",
       code: "import { addCommentFormActions, addCommentFormReducer } from '@/entities/Article/testing/file.tsx'",
