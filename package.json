@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-sev-legacy-plugin",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Plugin for checking relative paths and public api imports. Checking imports from the lower layer to the upper layer. Supports aliases.For projects with eslint <=9.0.0. .",
   "keywords": [
     "eslint",
